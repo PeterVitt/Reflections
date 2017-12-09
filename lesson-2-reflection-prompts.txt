@@ -17,4 +17,4 @@ What is the result of merging two branches together? Why do we represent it in t
 	It puts the changes from both into one. It comes together like in the diagram because both become parents so all the commits from both branches are included in the log.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually?
-	
+	Pros are that it is quicker, but cons could be accidentally ruining the code. Luckily, Git is good at deciding whether or not manual merging is required.
