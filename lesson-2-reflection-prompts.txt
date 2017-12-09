@@ -11,7 +11,7 @@ What are some situations when branches would be helpful in keeping your history 
 	When you're making an experimental version. It would help when there are some changes you think might not be in the final version but you want to try out. 
 
 How do the diagrams help you visualize the branch structure?
-
+	It is easier to visualise it since it is sort of mimicking a real life "branch".
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
